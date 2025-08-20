@@ -1,0 +1,182 @@
+[
+    {
+        "Disciplina": "Álgebra Linear",
+        "Professor": "Prof. Richard de Souza",
+        "Período": 2
+    },
+    {
+        "Disciplina": "Cálculo Diferencial e Integral II",
+        "Professor": "Prof. Fernando Santana",
+        "Período": 2
+    },
+    {
+        "Disciplina": "Ciências do Ambiente",
+        "Professor": "Prof. Cynthia Alexandra",
+        "Período": 2
+    },
+    {
+        "Disciplina": "Física: Eletromagnetismo",
+        "Professor": "Prof. Emilio Ramos",
+        "Período": 2
+    },
+    {
+        "Disciplina": "Funções de Variáveis Complexas",
+        "Professor": "DAA 2",
+        "Período": 2
+    },
+    {
+        "Disciplina": "Laboratório de Eletromagnetismo",
+        "Professor": "DAA 2",
+        "Período": 2
+    },
+    {
+        "Disciplina": "Materiais Elétricos",
+        "Professor": "Aline Magalhaes",
+        "Período": 2
+    },
+    {
+        "Disciplina": "Programação Aplicada à Engenharia",
+        "Professor": "Paulo Zanin",
+        "Período": 2
+    },
+    {
+        "Disciplina": "Cálculo Computacional",
+        "Professor": "Paulo Zanin",
+        "Período": 4
+    },
+    {
+        "Disciplina": "Circuitos Elétricos II",
+        "Professor": "Leovir Junior",
+        "Período": 4
+    },
+    {
+        "Disciplina": "Eletromagnetismo",
+        "Professor": "Leovir Junior",
+        "Período": 4
+    },
+    {
+        "Disciplina": "Eletrônica Analógica",
+        "Professor": "Gilberto",
+        "Período": 4
+    },
+    {
+        "Disciplina": "Eletrônica Digital I",
+        "Professor": "Marcelo Araujo",
+        "Período": 4
+    },
+    {
+        "Disciplina": "Fenômenos de Transporte",
+        "Professor": "DAA 4",
+        "Período": 4
+    },
+    {
+        "Disciplina": "Instalações Elétricas Prediais",
+        "Professor": "Aline Magalhaes",
+        "Período": 6
+    },
+    {
+        "Disciplina": "Instrumentação Industrial",
+        "Professor": "Ricardo Fonseca",
+        "Período": 6
+    },
+    {
+        "Disciplina": "Microcontroladores",
+        "Professor": "Carlos Bezerra",
+        "Período": 6
+    },
+    {
+        "Disciplina": "Processamento Digital de Sinais",
+        "Professor": "Arquimedes Silva",
+        "Período": 6
+    },
+    {
+        "Disciplina": "Redes de Computadores",
+        "Professor": "Christiane",
+        "Período": 6
+    },
+    {
+        "Disciplina": "Transformadores",
+        "Professor": "Renato Dias",
+        "Período": 6
+    },
+    {
+        "Disciplina": "Comunicações Ópticas",
+        "Professor": "João Batista",
+        "Período": 8
+    },
+    {
+        "Disciplina": "Redes de Alta Velocidade",
+        "Professor": "Marcos Lima",
+        "Período": 8
+    },
+    {
+        "Disciplina": "Sistemas de Radiodifusão",
+        "Professor": "Kelias Oliveira",
+        "Período": 8
+    },
+    {
+        "Disciplina": "Sistemas Inteligentes",
+        "Professor": "Carlos Roberto",
+        "Período": 8
+    },
+    {
+        "Disciplina": "Subestações",
+        "Professor": "Renato Dias",
+        "Período": 8
+    },
+    {
+        "Disciplina": "Técnicas de Redução de Ruídos",
+        "Professor": "João Batista",
+        "Período": 8
+    },
+    {
+        "Disciplina": "Análise de Desempenho de Redes",
+        "Professor": "Marcos Lima",
+        "Período": 10
+    },
+    {
+        "Disciplina": "Análise de Sistemas Elétricos",
+        "Professor": "Alana Magalhães",
+        "Período": 10
+    },
+    {
+        "Disciplina": "Legislação e Ética",
+        "Professor": "Fábio Marques",
+        "Período": 10
+    },
+    {
+        "Disciplina": "Projetos de Redes Lógicas",
+        "Professor": "João Batista",
+        "Período": 10
+    },
+    {
+        "Disciplina": "Redes Industriais",
+        "Professor": "Ricardo Fonseca",
+        "Período": 10
+    },
+    {
+        "Disciplina": "Sistemas de Controle II",
+        "Professor": "Leovir Junior",
+        "Período": 10
+    },
+    {
+        "Disciplina": "Trabalho de Conclusão de Curso II",
+        "Professor": "",
+        "Período": 10
+    },
+    {
+        "Disciplina": "Tópicos em Sistema Elétricos II - Aterramento Elétrico",
+        "Professor": "Ricardo Fonseca",
+        "Período": 9
+    },
+    {
+        "Disciplina": "Segurança da Informação",
+        "Professor": "Fábio Marques",
+        "Período": 9
+    },
+    {
+        "Disciplina": "Dispositivos e Circuitos de Radiofrequência",
+        "Professor": "Carlos Daniel",
+        "Período": 9
+    }
+]

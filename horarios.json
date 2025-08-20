@@ -1,0 +1,622 @@
+[
+    {
+        "Período": 2,
+        "Disciplina": "Física: Eletromagnetismo",
+        "Professor": "Prof. Lucas Nonato",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-109",
+        "Coordenação": "Área de Física"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Ciências do Ambiente",
+        "Professor": "Prof. Cynthia Alexandra",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-110",
+        "Coordenação": "Bacharelado em Engenharia Ambiental e Sanitária"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Laboratório de Eletromagnetismo",
+        "Professor": "Prof. Emilio Ramos",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-805C",
+        "Coordenação": "Área de Física"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Programação Aplicada à Engenharia",
+        "Professor": "Prof. Paulo Zanin",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-403C",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Física: Eletromagnetismo",
+        "Professor": "Prof. Lucas Nonato",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-109",
+        "Coordenação": "Área de Física"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Cálculo Diferencial e Integral II",
+        "Professor": "Prof. Fernando Santana",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-109",
+        "Coordenação": "Área de Matemática"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Programação Aplicada à Engenharia",
+        "Professor": "Prof. Paulo Zanin",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-403C",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Cálculo Diferencial e Integral II",
+        "Professor": "Prof. Fernando Santana",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-110",
+        "Coordenação": "Área de Matemática"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Funções de Variáveis Complexas",
+        "Professor": "Prof. Gabriela Oliveira",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-110",
+        "Coordenação": "Área de Matemática"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Cálculo Diferencial e Integral II",
+        "Professor": "Prof. Fernando Santana",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-110",
+        "Coordenação": "Área de Matemática"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Materiais Elétricos",
+        "Professor": "Prof. Aline",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "07:00 ",
+        "Horário Fim": "08:30",
+        "Sala": "S-306",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Álgebra Linear",
+        "Professor": "Prof. Richard de Souza",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "08:45 ",
+        "Horário Fim": "10:15",
+        "Sala": "S-110",
+        "Coordenação": "Área de Matemática"
+    },
+    {
+        "Período": 2,
+        "Disciplina": "Álgebra Linear",
+        "Professor": "Prof. Richard de Souza",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "10:30 ",
+        "Horário Fim": "12:00",
+        "Sala": "S-110",
+        "Coordenação": "Área de Matemática"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Eletrônica Digital I",
+        "Professor": "Prof. Marcelo Adad",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-304",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Fenômenos de Transporte",
+        "Professor": "Prof. Ricardo Vitoy",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-202",
+        "Coordenação": "Bacharelado em Engenharia Mecânica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Eletromagnetismo",
+        "Professor": "Prof. Leovir",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Eletrônica Analógica",
+        "Professor": "Prof. Gilberto",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Eletrônica Analógica",
+        "Professor": "Prof. Gilberto",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Eletrônica Digital I",
+        "Professor": "Prof. Marcelo Adad",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-304",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Fenômenos de Transporte",
+        "Professor": "Prof. Ricardo Vitoy",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-202",
+        "Coordenação": "Bacharelado em Engenharia Mecânica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Eletromagnetismo",
+        "Professor": "Prof. Leovir",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Cálculo Computacional",
+        "Professor": "Prof. Paulo Zanin",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-403C",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Eletrônica Analógica",
+        "Professor": "Prof. Gilberto",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Circuitos Elétricos II",
+        "Professor": "Prof. Leovir",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "07:00 ",
+        "Horário Fim": "08:30",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Circuitos Elétricos II",
+        "Professor": "Prof. Leovir",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "08:45 ",
+        "Horário Fim": "10:15",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 4,
+        "Disciplina": "Circuitos Elétricos II",
+        "Professor": "Prof. Leovir",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "10:30 ",
+        "Horário Fim": "12:00",
+        "Sala": "T-304",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Transformadores",
+        "Professor": "Prof. Renato Jayme",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Instrumentação Industrial",
+        "Professor": "Prof. Ricardo Henrique",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-309",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Processamento Digital de Sinais",
+        "Professor": "Prof. Arquimedes",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-305",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Redes de Computadores",
+        "Professor": "Prof. Christiane",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-309",
+        "Coordenação": "Área de Informática"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Microcontroladores",
+        "Professor": "Prof. Carlos Daniel",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-309",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Transformadores",
+        "Professor": "Prof. Renato Jayme",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Redes de Computadores",
+        "Professor": "Prof. Christiane",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-309",
+        "Coordenação": "Área de Informática"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Processamento Digital de Sinais",
+        "Professor": "Prof. Arquimedes",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-305",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Redes de Computadores",
+        "Professor": "Prof. Christiane",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-309",
+        "Coordenação": "Área de Informática"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Microcontroladores",
+        "Professor": "Prof. Carlos Daniel",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-309",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Instrumentação Industrial",
+        "Professor": "Prof. Ricardo Henrique",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "07:00 ",
+        "Horário Fim": "08:30",
+        "Sala": "S-309",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Instalações Elétricas Prediais",
+        "Professor": "Prof. Aline",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "08:45 ",
+        "Horário Fim": "10:15",
+        "Sala": "S-403C",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 6,
+        "Disciplina": "Instalações Elétricas Prediais",
+        "Professor": "Prof. Aline",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "10:30 ",
+        "Horário Fim": "12:00",
+        "Sala": "S-403C",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Sistemas de Radiodifusão",
+        "Professor": "Prof. Kelias",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-306",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Subestações",
+        "Professor": "Prof. Renato Jayme",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S- 305",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Sistemas Inteligentes",
+        "Professor": "Prof. Carlos Silveira",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "Sala: S-310",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Redes de Alta Velocidade",
+        "Professor": "Prof. Marcos Cardoso",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-301",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Comunicações Ópticas",
+        "Professor": "Prof. João Batista",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-301",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Técnicas de Redução de Ruídos",
+        "Professor": "Prof. João Batista",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-301",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Subestações",
+        "Professor": "Prof. Renato Jayme",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-305",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Sistemas Inteligentes",
+        "Professor": "Prof. Carlos Silveira",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "Sala: S-310",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Redes de Alta Velocidade",
+        "Professor": "Prof. Marcos Cardoso",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-301",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Comunicações Ópticas",
+        "Professor": "Prof. João Batista",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-301",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
+        "Disciplina": "Projetos de Redes Lógicas",
+        "Professor": "Prof. João Batista",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-301",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
+        "Disciplina": "Análise de Sistemas Elétricos",
+        "Professor": "Prof. Alana",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
+        "Disciplina": "Redes Industriais",
+        "Professor": "Prof. Ricardo Henrique",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "Sala S-306",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
+        "Disciplina": "Análise de Desempenho de Redes",
+        "Professor": "Prof. Marcos Cardoso",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S- 306",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
+        "Disciplina": "Legislação e Ética",
+        "Professor": "Prof. Fábio Marques",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-310",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
+        "Disciplina": "Análise de Sistemas Elétricos",
+        "Professor": "Prof. Alana",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
+        "Disciplina": "Redes Industriais",
+        "Professor": "Prof. Ricardo Henrique",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "Sala S-306",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
+        "Disciplina": "Sistemas de Controle II",
+        "Professor": "Prof. Ricardo Henrique",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "08:45 ",
+        "Horário Fim": "10:15",
+        "Sala": "S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
+        "Disciplina": "Sistemas de Controle II",
+        "Professor": "Prof. Ricardo Henrique",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "10:30 ",
+        "Horário Fim": "12:00",
+        "Sala": "S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 9,
+        "Disciplina": "Dispositivos e Circuitos de Radiofrequência",
+        "Professor": "Prof. Carlos Daniel",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "07:00 ",
+        "Horário Fim": "08:30",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 9,
+        "Disciplina": "Segurança da Informação",
+        "Professor": "Prof. Fábio Marques",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "08:45 ",
+        "Horário Fim": "10:15",
+        "Sala": "S-309",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 9,
+        "Disciplina": "Dispositivos e Circuitos de Radiofrequência",
+        "Professor": "Prof. Carlos Daniel",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "08:45 ",
+        "Horário Fim": "10:15",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 9,
+        "Disciplina": "Segurança da Informação",
+        "Professor": "Prof. Fábio Marques",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "10:30 ",
+        "Horário Fim": "12:00",
+        "Sala": "S-309",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    }
+]
