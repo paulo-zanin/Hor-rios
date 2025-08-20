@@ -1,3 +1,4 @@
+disciplinas.json
 [
     {
         "Disciplina": "Álgebra Linear",
@@ -178,5 +179,25 @@
         "Disciplina": "Dispositivos e Circuitos de Radiofrequência",
         "Professor": "Carlos Daniel",
         "Período": 9
+    },
+    {
+        "Disciplina": "Transmissao e Distribuição de Energia Elétrica",
+        "Professor": "Prof. Alana e Prof. Paulo Zanin",
+        "Período": 9
+    },
+    {
+        "Disciplina": "Engenharia Econômica",
+        "Professor": "Prof. Elder",
+        "Período": 9
+    },
+    {
+        "Disciplina": "Sistemas de Radioenlace ",
+        "Professor": "Prof. João Batista",
+        "Período": 9
+    },
+    {
+        "Disciplina": "Inteligência em Rede Elétrica\n(Smart Grid)",
+        "Professor": "Prof. Gilberto",
+        "Período": 10
     }
 ]
