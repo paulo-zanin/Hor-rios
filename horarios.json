@@ -1,3 +1,4 @@
+
 [
     {
         "Período": 2,
@@ -511,6 +512,16 @@
     },
     {
         "Período": 10,
+        "Disciplina": "Inteligência em Rede Elétrica\n(Smart Grid)",
+        "Professor": "Prof. Gilberto",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
         "Disciplina": "Redes Industriais",
         "Professor": "Prof. Ricardo Henrique",
         "Dia da Semana": "Quinta-feira",
@@ -551,6 +562,16 @@
     },
     {
         "Período": 10,
+        "Disciplina": "Inteligência em Rede Elétrica\n(Smart Grid)",
+        "Professor": "Prof. Gilberto",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 10,
         "Disciplina": "Redes Industriais",
         "Professor": "Prof. Ricardo Henrique",
         "Dia da Semana": "Quinta-feira",
@@ -577,6 +598,56 @@
         "Horário Início": "10:30 ",
         "Horário Fim": "12:00",
         "Sala": "S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 9,
+        "Disciplina": "Transmissao e Distribuição de Energia Elétrica",
+        "Professor": "Prof. Alana e Prof. Paulo Zanin",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 9,
+        "Disciplina": "Sistemas de Radioenlace ",
+        "Professor": "Prof. João Batista",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-301",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 9,
+        "Disciplina": "Transmissao e Distribuição de Energia Elétrica",
+        "Professor": "Prof. Alana e Prof. Paulo Zanin",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 9,
+        "Disciplina": "Engenharia Econômica",
+        "Professor": "Prof. Elder",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia de Controle e Automação"
+    },
+    {
+        "Período": 9,
+        "Disciplina": "Sistemas de Radioenlace ",
+        "Professor": "Prof. João Batista",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-301",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
