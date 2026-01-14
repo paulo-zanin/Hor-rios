@@ -121,6 +121,36 @@
     },
     {
         "Período": 3,
+        "Disciplina": "Circuitos Elétricos I",
+        "Professor": "Prof. Gilberto Lopes",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 3,
+        "Disciplina": "Laboratório de Fluidos, Ondas e Calor",
+        "Professor": "Prof. Rodrigo Alves de Lima",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-805D",
+        "Coordenação": "Área de Física"
+    },
+    {
+        "Período": 3,
+        "Disciplina": "Física: Fluidos, Ondas e Calor",
+        "Professor": "Prof. Fabiano Caetano",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-109",
+        "Coordenação": "Área de Física"
+    },
+    {
+        "Período": 3,
         "Disciplina": "Equações Diferenciais",
         "Professor": "Prof. Paulo César da Silva",
         "Dia da Semana": "Quinta-feira",
@@ -131,6 +161,26 @@
     },
     {
         "Período": 3,
+        "Disciplina": "Física: Fluidos, Ondas e Calor",
+        "Professor": "Prof. Fabiano Caetano",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-109",
+        "Coordenação": "Área de Física"
+    },
+    {
+        "Período": 3,
+        "Disciplina": "Circuitos Elétricos I",
+        "Professor": "Prof. Gilberto Lopes",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 3,
         "Disciplina": "Cálculo Diferencial e Integral III",
         "Professor": "Prof. Paulo César da Silva",
         "Dia da Semana": "Terça-feira",
@@ -138,6 +188,16 @@
         "Horário Fim": "22:15",
         "Sala": "Sala S-204",
         "Coordenação": "Área de Matemática"
+    },
+    {
+        "Período": 3,
+        "Disciplina": "Circuitos Elétricos I",
+        "Professor": "Prof. Gilberto Lopes",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
         "Período": 3,
@@ -351,6 +411,16 @@
     },
     {
         "Período": 7,
+        "Disciplina": "Transmissão e Distribuição de Energia Elétrica",
+        "Professor": "Prof. Paulo Sérgio Zanin",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "Sala S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 7,
         "Disciplina": "Sistemas de Controle I",
         "Professor": "Prof. Leovir",
         "Dia da Semana": "Sexta-feira",
@@ -420,7 +490,17 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 6,
+        "Período": 7,
+        "Disciplina": "Introdução à Administração",
+        "Professor": "",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "10:30 ",
+        "Horário Fim": "12:00",
+        "Sala": "S-307",
+        "Coordenação": "Área de Turismo e Hospitalidade"
+    },
+    {
+        "Período": "Extra",
         "Disciplina": "Processamento Digital de Sinais",
         "Professor": "Prof. Arquimedes Lopes",
         "Dia da Semana": "Segunda-feira",
@@ -430,7 +510,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 8,
+        "Período": "Extra",
         "Disciplina": "Instalações Elétricas Prediais",
         "Professor": "Prof. Arquimedes Lopes",
         "Dia da Semana": "Quarta-feira",
@@ -440,7 +520,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Processos Estocásticos",
         "Professor": "Prof. Marcos Cardoso",
         "Dia da Semana": "Sexta-feira",
@@ -450,7 +530,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 6,
+        "Período": "Extra",
         "Disciplina": "Processamento Digital de Sinais",
         "Professor": "Prof. Arquimedes Lopes",
         "Dia da Semana": "Segunda-feira",
@@ -460,7 +540,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 8,
+        "Período": "Extra",
         "Disciplina": "Instalações Elétricas Prediais",
         "Professor": "Prof. Arquimedes Lopes",
         "Dia da Semana": "Quarta-feira",
@@ -470,7 +550,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Processos Estocásticos",
         "Professor": "Prof. Marcos Cardoso",
         "Dia da Semana": "Sexta-feira",
@@ -480,7 +560,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Sistemas de Comunicação",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Segunda-feira",
@@ -500,7 +580,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Análise de Sistemas Elétricos",
         "Professor": "Profa. Alana Magalhães",
         "Dia da Semana": "Sexta-feira",
@@ -510,7 +590,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Sistemas de Comunicação",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Segunda-feira",
@@ -530,7 +610,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Análise de Sistemas Elétricos",
         "Professor": "Profa. Alana Magalhães",
         "Dia da Semana": "Sexta-feira",
@@ -540,27 +620,27 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Comunicações Móveis",
         "Professor": "Prof. Kelias de Oliveira",
         "Dia da Semana": "Segunda-feira",
-        "Horário Início": "16:30-",
+        "Horário Início": "16:30 ",
         "Horário Fim": "18:00",
         "Sala": "S-305",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Multiplexação",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Sexta-feira",
-        "Horário Início": "16:30-",
+        "Horário Início": "16:30 ",
         "Horário Fim": "18:00",
         "Sala": "S-301",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Sistemas de Controle II",
         "Professor": "Prof. Ricardo Henrique",
         "Dia da Semana": "Segunda-feira",
@@ -570,7 +650,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Análise de Desempenho de Redes",
         "Professor": "Prof. Marcos Cardoso ::::",
         "Dia da Semana": "Terça-feira",
@@ -580,7 +660,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Tópicos em Sistemas Elétricos II - Sistema de Proteção Contra Descargas Atmosféricas-spda",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Quarta-feira",
@@ -590,7 +670,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Comutação Telefônica",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Sexta-feira",
@@ -600,7 +680,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Sistemas de Controle II",
         "Professor": "Prof. Ricardo Henrique",
         "Dia da Semana": "Segunda-feira",
@@ -610,7 +690,7 @@
         "Coordenação": ""
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Tópicos em Sistemas Elétricos II - Sistema de Proteção Contra Descargas Atmosféricas-spda",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Quarta-feira",
@@ -620,7 +700,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Comutação Telefônica",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Sexta-feira",
@@ -751,6 +831,36 @@
     },
     {
         "Período": 3,
+        "Disciplina": "Circuitos Elétricos I",
+        "Professor": "Prof. Gilberto Lopes",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 3,
+        "Disciplina": "Laboratório de Fluidos, Ondas e Calor",
+        "Professor": "Prof. Rodrigo Alves de Lima",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-805D",
+        "Coordenação": "Área de Física"
+    },
+    {
+        "Período": 3,
+        "Disciplina": "Física: Fluidos, Ondas e Calor",
+        "Professor": "Prof. Fabiano Caetano",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-109",
+        "Coordenação": "Área de Física"
+    },
+    {
+        "Período": 3,
         "Disciplina": "Equações Diferenciais",
         "Professor": "Prof. Paulo César da Silva",
         "Dia da Semana": "Quinta-feira",
@@ -761,6 +871,26 @@
     },
     {
         "Período": 3,
+        "Disciplina": "Física: Fluidos, Ondas e Calor",
+        "Professor": "Prof. Fabiano Caetano",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "S-109",
+        "Coordenação": "Área de Física"
+    },
+    {
+        "Período": 3,
+        "Disciplina": "Circuitos Elétricos I",
+        "Professor": "Prof. Gilberto Lopes",
+        "Dia da Semana": "Segunda-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 3,
         "Disciplina": "Cálculo Diferencial e Integral III",
         "Professor": "Prof. Paulo César da Silva",
         "Dia da Semana": "Terça-feira",
@@ -768,6 +898,16 @@
         "Horário Fim": "22:15",
         "Sala": "Sala S-204",
         "Coordenação": "Área de Matemática"
+    },
+    {
+        "Período": 3,
+        "Disciplina": "Circuitos Elétricos I",
+        "Professor": "Prof. Gilberto Lopes",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "S-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
         "Período": 3,
@@ -981,6 +1121,16 @@
     },
     {
         "Período": 7,
+        "Disciplina": "Transmissão e Distribuição de Energia Elétrica",
+        "Professor": "Prof. Paulo Sérgio Zanin",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "Sala S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 7,
         "Disciplina": "Sistemas de Controle I",
         "Professor": "Prof. Leovir",
         "Dia da Semana": "Sexta-feira",
@@ -1050,7 +1200,17 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 6,
+        "Período": 7,
+        "Disciplina": "Introdução à Administração",
+        "Professor": "",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "10:30 ",
+        "Horário Fim": "12:00",
+        "Sala": "S-307",
+        "Coordenação": "Área de Turismo e Hospitalidade"
+    },
+    {
+        "Período": "Extra",
         "Disciplina": "Processamento Digital de Sinais",
         "Professor": "Prof. Arquimedes Lopes",
         "Dia da Semana": "Segunda-feira",
@@ -1060,7 +1220,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 8,
+        "Período": "Extra",
         "Disciplina": "Instalações Elétricas Prediais",
         "Professor": "Prof. Arquimedes Lopes",
         "Dia da Semana": "Quarta-feira",
@@ -1070,7 +1230,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Processos Estocásticos",
         "Professor": "Prof. Marcos Cardoso",
         "Dia da Semana": "Sexta-feira",
@@ -1080,7 +1240,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 6,
+        "Período": "Extra",
         "Disciplina": "Processamento Digital de Sinais",
         "Professor": "Prof. Arquimedes Lopes",
         "Dia da Semana": "Segunda-feira",
@@ -1090,7 +1250,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 8,
+        "Período": "Extra",
         "Disciplina": "Instalações Elétricas Prediais",
         "Professor": "Prof. Arquimedes Lopes",
         "Dia da Semana": "Quarta-feira",
@@ -1100,7 +1260,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Processos Estocásticos",
         "Professor": "Prof. Marcos Cardoso",
         "Dia da Semana": "Sexta-feira",
@@ -1110,7 +1270,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Sistemas de Comunicação",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Segunda-feira",
@@ -1130,7 +1290,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Análise de Sistemas Elétricos",
         "Professor": "Profa. Alana Magalhães",
         "Dia da Semana": "Sexta-feira",
@@ -1140,7 +1300,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Sistemas de Comunicação",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Segunda-feira",
@@ -1160,7 +1320,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Análise de Sistemas Elétricos",
         "Professor": "Profa. Alana Magalhães",
         "Dia da Semana": "Sexta-feira",
@@ -1170,27 +1330,27 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 7,
+        "Período": "Extra",
         "Disciplina": "Comunicações Móveis",
         "Professor": "Prof. Kelias de Oliveira",
         "Dia da Semana": "Segunda-feira",
-        "Horário Início": "16:30-",
+        "Horário Início": "16:30 ",
         "Horário Fim": "18:00",
         "Sala": "S-305",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Multiplexação",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Sexta-feira",
-        "Horário Início": "16:30-",
+        "Horário Início": "16:30 ",
         "Horário Fim": "18:00",
         "Sala": "S-301",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Sistemas de Controle II",
         "Professor": "Prof. Ricardo Henrique",
         "Dia da Semana": "Segunda-feira",
@@ -1200,7 +1360,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Análise de Desempenho de Redes",
         "Professor": "Prof. Marcos Cardoso ::::",
         "Dia da Semana": "Terça-feira",
@@ -1210,7 +1370,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Tópicos em Sistemas Elétricos II - Sistema de Proteção Contra Descargas Atmosféricas-spda",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Quarta-feira",
@@ -1220,7 +1380,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Comutação Telefônica",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Sexta-feira",
@@ -1230,7 +1390,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": 10,
+        "Período": "Extra",
         "Disciplina": "Sistemas de Controle II",
         "Professor": "Prof. Ricardo Henrique",
         "Dia da Semana": "Segunda-feira",
@@ -1240,7 +1400,7 @@
         "Coordenação": ""
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Tópicos em Sistemas Elétricos II - Sistema de Proteção Contra Descargas Atmosféricas-spda",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Quarta-feira",
@@ -1250,7 +1410,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "-",
+        "Período": "Optativa",
         "Disciplina": "Comutação Telefônica",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Sexta-feira",

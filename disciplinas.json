@@ -117,50 +117,50 @@
     },
     {
         "Disciplina": "Processamento Digital de Sinais",
-        "Período": 6
+        "Período": "Extra"
     },
     {
         "Disciplina": "Instalações Elétricas Prediais",
-        "Período": 8
+        "Período": "Extra"
     },
     {
         "Disciplina": "Processos Estocásticos",
-        "Período": 7
+        "Período": "Extra"
     },
     {
         "Disciplina": "Sistemas de Comunicação",
-        "Período": 7
+        "Período": "Extra"
     },
     {
         "Disciplina": "Segurança da Informação",
-        "Período": 9
+        "Período": "Extra"
     },
     {
         "Disciplina": "Análise de Sistemas Elétricos",
-        "Período": 10
+        "Período": "Extra"
     },
     {
         "Disciplina": "Comunicações Móveis",
-        "Período": 7
+        "Período": "Extra"
     },
     {
         "Disciplina": "Sistemas de Controle II",
-        "Período": 10
+        "Período": "Extra"
     },
     {
         "Disciplina": "Análise de Desempenho de Redes",
-        "Período": 10
+        "Período": "Extra"
     },
     {
         "Disciplina": "Tópicos em Sistemas Elétricos II - Sistema de Proteção Contra Descargas Atmosféricas-spda",
-        "Período": "-"
+        "Período": "Optativa"
     },
     {
         "Disciplina": "Multiplexação",
-        "Período": "-"
+        "Período": "Optativa"
     },
     {
         "Disciplina": "Comutação Telefônica",
-        "Período": "-"
+        "Período": "Optativa"
     }
 ]
