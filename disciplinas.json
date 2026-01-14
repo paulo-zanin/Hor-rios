@@ -1,203 +1,166 @@
-
 [
     {
-        "Disciplina": "Álgebra Linear",
-        "Professor": "Prof. Richard de Souza",
-        "Período": 2
+        "Disciplina": "Algoritmos e Técnicas de Programação",
+        "Período": 1
     },
     {
-        "Disciplina": "Cálculo Diferencial e Integral II",
-        "Professor": "Prof. Fernando Santana",
-        "Período": 2
+        "Disciplina": "Cálculo Diferencial e Integral I",
+        "Período": 1
     },
     {
-        "Disciplina": "Ciências do Ambiente",
-        "Professor": "Prof. Cynthia Alexandra",
-        "Período": 2
+        "Disciplina": "Física: Mecânica",
+        "Período": 1
     },
     {
-        "Disciplina": "Física: Eletromagnetismo",
-        "Professor": "Prof. Emilio Ramos",
-        "Período": 2
+        "Disciplina": "Geometria Analítica",
+        "Período": 1
     },
     {
-        "Disciplina": "Funções de Variáveis Complexas",
-        "Professor": "DAA 2",
-        "Período": 2
+        "Disciplina": "Introdução à Engenharia Elétrica",
+        "Período": 1
     },
     {
-        "Disciplina": "Laboratório de Eletromagnetismo",
-        "Professor": "DAA 2",
-        "Período": 2
+        "Disciplina": "Laboratório de Mecânica",
+        "Período": 1
     },
     {
-        "Disciplina": "Materiais Elétricos",
-        "Professor": "Aline Magalhaes",
-        "Período": 2
+        "Disciplina": "Química Geral",
+        "Período": 1
     },
     {
-        "Disciplina": "Programação Aplicada à Engenharia",
-        "Professor": "Paulo Zanin",
-        "Período": 2
+        "Disciplina": "Cálculo Diferencial e Integral III",
+        "Período": 3
     },
     {
-        "Disciplina": "Cálculo Computacional",
-        "Professor": "Paulo Zanin",
-        "Período": 4
+        "Disciplina": "Cálculo Numérico",
+        "Período": 3
     },
     {
-        "Disciplina": "Circuitos Elétricos II",
-        "Professor": "Leovir Junior",
-        "Período": 4
+        "Disciplina": "Circuitos Elétricos I",
+        "Período": 3
     },
     {
-        "Disciplina": "Eletromagnetismo",
-        "Professor": "Leovir Junior",
-        "Período": 4
+        "Disciplina": "Equações Diferenciais",
+        "Período": 3
     },
     {
-        "Disciplina": "Eletrônica Analógica",
-        "Professor": "Gilberto",
-        "Período": 4
+        "Disciplina": "Física: Fluidos, Ondas e Calor",
+        "Período": 3
     },
     {
-        "Disciplina": "Eletrônica Digital I",
-        "Professor": "Marcelo Araujo",
-        "Período": 4
+        "Disciplina": "Introdução à Economia",
+        "Período": 3
     },
     {
-        "Disciplina": "Fenômenos de Transporte",
-        "Professor": "DAA 4",
-        "Período": 4
+        "Disciplina": "Laboratório de Fluidos, Ondas e Calor",
+        "Período": 3
     },
     {
-        "Disciplina": "Instalações Elétricas Prediais",
-        "Professor": "Aline Magalhaes",
-        "Período": 6
+        "Disciplina": "Conversão de Energia Elétrica",
+        "Período": 5
     },
     {
-        "Disciplina": "Instrumentação Industrial",
-        "Professor": "Ricardo Fonseca",
-        "Período": 6
+        "Disciplina": "Desenho Técnico Assistido por Computador",
+        "Período": 5
     },
     {
-        "Disciplina": "Microcontroladores",
-        "Professor": "Carlos Bezerra",
-        "Período": 6
+        "Disciplina": "Eletrônica Digital II",
+        "Período": 5
     },
     {
-        "Disciplina": "Processamento Digital de Sinais",
-        "Professor": "Arquimedes Silva",
-        "Período": 6
+        "Disciplina": "Eletrônica Industrial",
+        "Período": 5
     },
     {
-        "Disciplina": "Redes de Computadores",
-        "Professor": "Christiane",
-        "Período": 6
+        "Disciplina": "Mecânica dos Sólidos",
+        "Período": 5
     },
     {
-        "Disciplina": "Transformadores",
-        "Professor": "Renato Dias",
-        "Período": 6
+        "Disciplina": "Segurança do Trabalho",
+        "Período": 5
     },
     {
-        "Disciplina": "Comunicações Ópticas",
-        "Professor": "João Batista",
-        "Período": 8
+        "Disciplina": "Sistemas Lineares",
+        "Período": 5
     },
     {
-        "Disciplina": "Redes de Alta Velocidade",
-        "Professor": "Marcos Lima",
-        "Período": 8
+        "Disciplina": "Instalações Industriais",
+        "Período": 7
     },
     {
-        "Disciplina": "Sistemas de Radiodifusão",
-        "Professor": "Kelias Oliveira",
-        "Período": 8
+        "Disciplina": "Introdução à Administração",
+        "Período": 7
     },
     {
-        "Disciplina": "Sistemas Inteligentes",
-        "Professor": "Carlos Roberto",
-        "Período": 8
+        "Disciplina": "Língua Portuguesa",
+        "Período": 7
+    },
+    {
+        "Disciplina": "Máquinas Elétricas I",
+        "Período": 7
+    },
+    {
+        "Disciplina": "Sistemas de Controle I",
+        "Período": 7
     },
     {
         "Disciplina": "Subestações",
-        "Professor": "Renato Dias",
-        "Período": 8
+        "Período": 7
     },
     {
-        "Disciplina": "Técnicas de Redução de Ruídos",
-        "Professor": "João Batista",
-        "Período": 8
-    },
-    {
-        "Disciplina": "Análise de Desempenho de Redes",
-        "Professor": "Marcos Lima",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Análise de Sistemas Elétricos",
-        "Professor": "Alana Magalhães",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Legislação e Ética",
-        "Professor": "Fábio Marques",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Projetos de Redes Lógicas",
-        "Professor": "João Batista",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Redes Industriais",
-        "Professor": "Ricardo Fonseca",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Sistemas de Controle II",
-        "Professor": "Leovir Junior",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Trabalho de Conclusão de Curso II",
-        "Professor": "",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Tópicos em Sistema Elétricos II - Aterramento Elétrico",
-        "Professor": "Ricardo Fonseca",
-        "Período": 9
+        "Disciplina": "Transmissão e Distribuição de Energia Elétrica",
+        "Período": 7
     },
     {
         "Disciplina": "Segurança da Informação",
-        "Professor": "Fábio Marques",
         "Período": 9
     },
     {
-        "Disciplina": "Dispositivos e Circuitos de Radiofrequência",
-        "Professor": "Carlos Daniel",
+        "Disciplina": "Processamento Digital de Sinais",
+        "Período": 6
+    },
+    {
+        "Disciplina": "Instalações Elétricas Prediais",
+        "Período": 8
+    },
+    {
+        "Disciplina": "Processos Estocásticos",
+        "Período": 7
+    },
+    {
+        "Disciplina": "Sistemas de Comunicação",
+        "Período": 7
+    },
+    {
+        "Disciplina": "Segurança da Informação",
         "Período": 9
     },
     {
-        "Disciplina": "Transmissao e Distribuição de Energia Elétrica",
-        "Professor": "Prof. Alana e Prof. Paulo Zanin",
-        "Período": 9
-    },
-    {
-        "Disciplina": "Engenharia Econômica",
-        "Professor": "Prof. Elder",
-        "Período": 9
-    },
-    {
-        "Disciplina": "Sistemas de Radioenlace ",
-        "Professor": "Prof. João Batista",
-        "Período": 9
-    },
-    {
-        "Disciplina": "Inteligência em Rede Elétrica\n(Smart Grid)",
-        "Professor": "Prof. Gilberto",
+        "Disciplina": "Análise de Sistemas Elétricos",
         "Período": 10
+    },
+    {
+        "Disciplina": "Comunicações Móveis",
+        "Período": 7
+    },
+    {
+        "Disciplina": "Sistemas de Controle II",
+        "Período": 10
+    },
+    {
+        "Disciplina": "Análise de Desempenho de Redes",
+        "Período": 10
+    },
+    {
+        "Disciplina": "Tópicos em Sistemas Elétricos II - Sistema de Proteção Contra Descargas Atmosféricas-spda",
+        "Período": "-"
+    },
+    {
+        "Disciplina": "Multiplexação",
+        "Período": "-"
+    },
+    {
+        "Disciplina": "Comutação Telefônica",
+        "Período": "-"
     }
 ]
