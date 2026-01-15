@@ -1,4 +1,14 @@
 [
+        {
+        "Período": 1,
+        "Disciplina": "Introdução à Engenharia Elétrica",
+        "Professor": "Profa. Alana Magalhães",
+        "Dia da Semana": "Sábado",
+        "Horário Início": "10:30 ",
+        "Horário Fim": "12:00",
+        "Sala": "S-306",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    }
     {
         "Período": 1,
         "Disciplina": "Cálculo Diferencial e Integral I",
@@ -662,7 +672,7 @@
     {
         "Período": "Extra",
         "Disciplina": "Análise de Desempenho de Redes",
-        "Professor": "Prof. Marcos Cardoso ::::",
+        "Professor": "Prof. Marcos Cardoso",
         "Dia da Semana": "Terça-feira",
         "Horário Início": "19:00 ",
         "Horário Fim": "20:30",
