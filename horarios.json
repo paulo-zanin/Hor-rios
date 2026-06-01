@@ -411,6 +411,16 @@
     },
     {
         "Período": 8,
+        "Disciplina": "Automação Industrial I",
+        "Professor": "Prof. Carlos Roberto",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
         "Disciplina": "Estatística e Probabilidade",
         "Professor": "",
         "Dia da Semana": "Quinta-feira",
@@ -444,6 +454,16 @@
         "Disciplina": "Máquinas Elétricas II",
         "Professor": "Prof. Leovir",
         "Dia da Semana": "Terça-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 8,
+        "Disciplina": "Automação Industrial I",
+        "Professor": "Prof. Carlos Roberto",
+        "Dia da Semana": "Quarta-feira",
         "Horário Início": "20:45 ",
         "Horário Fim": "22:15",
         "Sala": "",
@@ -530,7 +550,17 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "",
+        "Período": "-",
+        "Disciplina": "Engenharia Econômica",
+        "Professor": "Prof. Elder Geraldo",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia de Controle e Automação"
+    },
+    {
+        "Período": "-",
         "Disciplina": "Infraestrutura para Sistema Irradiante",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Quarta-feira",
@@ -560,7 +590,7 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "",
+        "Período": 7,
         "Disciplina": "Comunicações Móveis",
         "Professor": "Prof. Kelias",
         "Dia da Semana": "Segunda-feira",
@@ -570,8 +600,8 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "",
-        "Disciplina": "Tópicos em Sistemas Elétricos I – Aterramento Elétrico",
+        "Período": "-",
+        "Disciplina": "Tópicos em Sistema Elétricos II - Aterramento Elétrico",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "19:00 ",
@@ -580,9 +610,9 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "",
+        "Período": 7,
         "Disciplina": "Subestações",
-        "Professor": "Renato Jayme",
+        "Professor": "Prof. Renato Jayme",
         "Dia da Semana": "Terça-feira",
         "Horário Início": "19:00 ",
         "Horário Fim": "20:30",
@@ -590,19 +620,39 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "",
-        "Disciplina": "Tópicos em Sistemas Elétricos I – Aterramento Elétrico",
+        "Período": 7,
+        "Disciplina": "Processos Estocásticos",
+        "Professor": "Prof. Marcos Cardoso",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "-",
+        "Disciplina": "Inteligência em Rede Elétrica (smart Grid)",
+        "Professor": "Prof. João Batista",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "19:00 ",
+        "Horário Fim": "20:30",
+        "Sala": "",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "-",
+        "Disciplina": "Tópicos em Sistema Elétricos II - Aterramento Elétrico",
         "Professor": "Prof. João Batista",
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "20:45 ",
         "Horário Fim": "22:15",
-        "Sala": "Grade 2023 - Optativa",
+        "Sala": "Grade 2013 - Optativa",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "",
+        "Período": 7,
         "Disciplina": "Subestações",
-        "Professor": "Renato Jayme",
+        "Professor": "Prof. Renato Jayme",
         "Dia da Semana": "Terça-feira",
         "Horário Início": "20:45 ",
         "Horário Fim": "22:15",
@@ -610,19 +660,39 @@
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "",
+        "Período": 7,
+        "Disciplina": "Processos Estocásticos",
+        "Professor": "Prof. Marcos Cardoso",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "Grade 2013 - 7 P",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "-",
+        "Disciplina": "Inteligência em Rede Elétrica (smart Grid)",
+        "Professor": "Prof. João Batista",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "20:45 ",
+        "Horário Fim": "22:15",
+        "Sala": "Grade 2013 - Optativa",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": 9,
         "Disciplina": "Instalações Industriais",
         "Professor": "Prof. Gilberto Lopes",
         "Dia da Semana": "Sábado",
         "Horário Início": "08:45 ",
         "Horário Fim": "10:15",
-        "Sala": "Grade 2023 - 7 P",
+        "Sala": "",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
-        "Período": "",
+        "Período": 9,
         "Disciplina": "Instalações Industriais",
-        "Professor": "´Turma Extra",
+        "Professor": "Prof. Gilberto Lopes",
         "Dia da Semana": "Sábado",
         "Horário Início": "10:30 ",
         "Horário Fim": "12:00",
