@@ -170,33 +170,43 @@
         "Período": 10
     },
     {
-        "Disciplina": "Tópicos em Sistemas Elétricos I – Aterramento Elétrico",
+        "Disciplina": "Tópicos em Sistema Elétricos II - Aterramento Elétrico",
         "Professor": "Dr. João Batista José Pereira",
-        "Período": ""
+        "Período": "-"
     },
     {
         "Disciplina": "Subestações",
         "Professor": "Dr. Renato Jayme Dias",
-        "Período": ""
+        "Período": 7
     },
     {
         "Disciplina": "Instalações Industriais",
         "Professor": "Dr. Gilberto Lopes Filho",
-        "Período": ""
+        "Período": 9
     },
     {
-        "Disciplina": "Processos Estocasticos",
+        "Disciplina": "Processos Estocásticos",
         "Professor": "Dr. Marcos Antônio Cardoso de Lima",
-        "Período": ""
+        "Período": 7
     },
     {
         "Disciplina": "Infraestrutura para Sistema Irradiante",
         "Professor": "Dr. João Batista José Pereira",
-        "Período": ""
+        "Período": "-"
     },
     {
         "Disciplina": "Comunicações Móveis",
         "Professor": "Dr. Kelias",
-        "Período": ""
+        "Período": 7
+    },
+    {
+        "Disciplina": "Engenharia Econômica",
+        "Professor": "Dr. Elder Geraldo",
+        "Período": "-"
+    },
+    {
+        "Disciplina": "Inteligência em Rede Elétrica (smart Grid)",
+        "Professor": "Dr. João Batista José Pereira",
+        "Período": "-"
     }
 ]
