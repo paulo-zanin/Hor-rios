@@ -1,212 +1,207 @@
 [
     {
-        "Disciplina": "Álgebra Linear",
-        "Professor": "Área da Matemática",
-        "Período": 2
+        "Disciplina": "Cálculo Diferencial e Integral I",
+        "Professor": "",
+        "Período": "1"
     },
     {
-        "Disciplina": "Cálculo Diferencial e Integral II",
-        "Professor": "Área da Matemática",
-        "Período": 2
+        "Disciplina": "Química Geral",
+        "Professor": "",
+        "Período": "1"
     },
     {
-        "Disciplina": "Ciências do Ambiente",
-        "Professor": "Prof. Cynthia Alexandra",
-        "Período": 2
+        "Disciplina": "Laboratório de Mecânica",
+        "Professor": "",
+        "Período": "1"
     },
     {
-        "Disciplina": "Física: Eletromagnetismo",
-        "Professor": "Área da Física",
-        "Período": 2
+        "Disciplina": "Física: Mecânica",
+        "Professor": "",
+        "Período": "1"
     },
     {
-        "Disciplina": "Funções de Variáveis Complexas",
-        "Professor": "Área da Matemática",
-        "Período": 2
+        "Disciplina": "Algoritmos e Técnicas de Programação",
+        "Professor": "Carlos Daniel de Sousa Bezerra",
+        "Período": "1"
     },
     {
-        "Disciplina": "Laboratório de Eletromagnetismo",
-        "Professor": "Área da Física",
-        "Período": 2
+        "Disciplina": "Introdução à Engenharia Elétrica",
+        "Professor": "Alana da Silva Magalhaes",
+        "Período": "1"
     },
     {
-        "Disciplina": "Materiais Elétricos",
-        "Professor": "Me. Aline da Silva Magalhães",
-        "Período": 2
+        "Disciplina": "Geometria Analítica",
+        "Professor": "",
+        "Período": "1"
     },
     {
-        "Disciplina": "Programação Aplicada à Engenharia",
-        "Professor": "Me. Paulo Sérgio Zanin Júnior",
-        "Período": 2
+        "Disciplina": "DISCIPLINA",
+        "Professor": "PROFESSOR",
+        "Período": "PERÍODO"
     },
     {
-        "Disciplina": "Cálculo Computacional",
-        "Professor": "Me. Paulo Sérgio Zanin Júnior",
-        "Período": 4
+        "Disciplina": "Circuitos Elétricos I",
+        "Professor": "Gilberto Lopes Filho",
+        "Período": "3"
     },
     {
-        "Disciplina": "Circuitos Elétricos II",
-        "Professor": "Dr. Leovir Cardoso de Aleluia Júnior",
-        "Período": 4
+        "Disciplina": "Laboratório de Fluidos, Ondas e Calor",
+        "Professor": "",
+        "Período": "3"
     },
     {
-        "Disciplina": "Eletromagnetismo",
-        "Professor": "Dr. Leovir Cardoso de Aleluia Júnior",
-        "Período": 4
+        "Disciplina": "Cálculo Diferencial e Integral III",
+        "Professor": "",
+        "Período": "3"
     },
     {
-        "Disciplina": "Eletrônica Analógica",
-        "Professor": "Dr. Gilberto Lopes Filho",
-        "Período": 4
+        "Disciplina": "Física: Fluidos, Ondas e Calor",
+        "Professor": "",
+        "Período": "3"
     },
     {
-        "Disciplina": "Eletrônica Digital I",
-        "Professor": "Dr. Marcelo Antonio Adad de Araujo",
-        "Período": 4
+        "Disciplina": "Equações Diferenciais",
+        "Professor": "",
+        "Período": "3"
     },
     {
-        "Disciplina": "Fenômenos de Transporte",
-        "Professor": "Bacharelado em Engenharia Mecânica",
-        "Período": 4
+        "Disciplina": "Cálculo Numérico",
+        "Professor": "",
+        "Período": "3"
     },
     {
-        "Disciplina": "Instalações Elétricas Prediais",
-        "Professor": "Me. Aline da Silva Magalhães",
-        "Período": 6
+        "Disciplina": "Introdução à Economia",
+        "Professor": "",
+        "Período": "3"
+    },
+    {
+        "Disciplina": "Eletrônica Digital II",
+        "Professor": "Marcelo Antonio Adad de Araujo",
+        "Período": "5"
+    },
+    {
+        "Disciplina": "Conversão de Energia Elétrica",
+        "Professor": "Renato Jayme Dias",
+        "Período": "5"
+    },
+    {
+        "Disciplina": "Desenho Técnico Assistido por Computador",
+        "Professor": "Arquimedes Lopes da Silva",
+        "Período": "5"
+    },
+    {
+        "Disciplina": "Sistemas Lineares",
+        "Professor": "Leovir Cardoso Aleluia Junior",
+        "Período": "5"
+    },
+    {
+        "Disciplina": "Eletrônica Industrial",
+        "Professor": "Carlos Daniel de Sousa Bezerra",
+        "Período": "5"
+    },
+    {
+        "Disciplina": "Mecânica dos Sólidos",
+        "Professor": "",
+        "Período": "5"
+    },
+    {
+        "Disciplina": "Segurança do Trabalho",
+        "Professor": "",
+        "Período": "5"
     },
     {
         "Disciplina": "Instrumentação Industrial",
-        "Professor": "Dr. Ricardo Henrique Fonseca Alves",
-        "Período": 6
-    },
-    {
-        "Disciplina": "Microcontroladores",
-        "Professor": "Dr. Carlos Daniel de Sousa Bezerra",
-        "Período": 6
-    },
-    {
-        "Disciplina": "Processamento Digital de Sinais",
-        "Professor": "Dr. Arquimedes Lopes da Silva",
-        "Período": 6
-    },
-    {
-        "Disciplina": "Redes de Computadores",
-        "Professor": "Dra. Christiane Borges",
-        "Período": 6
-    },
-    {
-        "Disciplina": "Transformadores",
-        "Professor": "Dr. Renato Jayme Dias",
-        "Período": 6
-    },
-    {
-        "Disciplina": "Análise de Sistemas Elétricos",
-        "Professor": "Dra. Alana da Silva Magalhães",
-        "Período": 8
-    },
-    {
-        "Disciplina": "Automação Industrial I",
-        "Professor": "Dr. Carlos Roberto da Silveira Junior",
-        "Período": 8
-    },
-    {
-        "Disciplina": "Estatística e Probabilidade",
-        "Professor": "Área da Matemática",
-        "Período": 8
-    },
-    {
-        "Disciplina": "Máquinas Elétricas II",
-        "Professor": "Dr. Leovir Cardoso de Aleluia Júnior",
-        "Período": 8
-    },
-    {
-        "Disciplina": "Metodologia Científica",
-        "Professor": "Me. Fábio da Silva Marques",
-        "Período": 8
-    },
-    {
-        "Disciplina": "Princípios de Comunicações",
-        "Professor": "Dr. Marcos Antônio Cardoso de Lima",
-        "Período": 8
-    },
-    {
-        "Disciplina": "Sistemas de Controle II",
-        "Professor": "Dr. Ricardo Henrique Fonseca Alves",
-        "Período": 8
-    },
-    {
-        "Disciplina": "Análise de Desempenho de Redes",
-        "Professor": "Dr. Marcos Antônio Cardoso de Lima",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Análise de Sistemas Elétricos",
         "Professor": "",
-        "Período": 10
+        "Período": "6"
     },
     {
-        "Disciplina": "Legislação e Ética",
-        "Professor": "Me. Fábio da Silva Marques",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Projetos de Redes Lógicas",
-        "Professor": "Dr. João Batista José Pereira",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Redes Industriais",
-        "Professor": "Dr. Ricardo Henrique Fonseca Alves",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Sistemas de Controle II",
-        "Professor": "",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Trabalho de Conclusão de Curso II",
-        "Professor": "",
-        "Período": 10
-    },
-    {
-        "Disciplina": "Tópicos em Sistema Elétricos II - Aterramento Elétrico",
-        "Professor": "Dr. João Batista José Pereira",
-        "Período": "-"
-    },
-    {
-        "Disciplina": "Subestações",
-        "Professor": "Dr. Renato Jayme Dias",
-        "Período": 7
+        "Disciplina": "Instalações Elétricas Prediais",
+        "Professor": "Aline da Silva Magalhaes",
+        "Período": "6"
     },
     {
         "Disciplina": "Instalações Industriais",
-        "Professor": "Dr. Gilberto Lopes Filho",
-        "Período": 9
+        "Professor": "Danilo dos Santos Oliveira",
+        "Período": "7"
     },
     {
-        "Disciplina": "Processos Estocásticos",
-        "Professor": "Dr. Marcos Antônio Cardoso de Lima",
-        "Período": 7
+        "Disciplina": "Máquinas Elétricas I",
+        "Professor": "Leovir Cardoso Aleluia Junior",
+        "Período": "7"
     },
     {
-        "Disciplina": "Infraestrutura para Sistema Irradiante",
-        "Professor": "Dr. João Batista José Pereira",
-        "Período": "-"
+        "Disciplina": "Transmissão e Distribuição de Energia Elétrica",
+        "Professor": "Paulo Sergio Zanin Junior",
+        "Período": "7"
     },
     {
-        "Disciplina": "Comunicações Móveis",
-        "Professor": "Dr. Kelias",
-        "Período": 7
+        "Disciplina": "Língua Portuguesa",
+        "Professor": "",
+        "Período": "7"
     },
     {
-        "Disciplina": "Engenharia Econômica",
-        "Professor": "Dr. Elder Geraldo",
-        "Período": "-"
+        "Disciplina": "Subestações",
+        "Professor": "Danilo dos Santos Oliveira",
+        "Período": "7"
     },
     {
-        "Disciplina": "Inteligência em Rede Elétrica (smart Grid)",
-        "Professor": "Dr. João Batista José Pereira",
-        "Período": "-"
+        "Disciplina": "Sistemas de Controle I",
+        "Professor": "Leovir Cardoso Aleluia Junior",
+        "Período": "7"
+    },
+    {
+        "Disciplina": "Introdução à Administração",
+        "Professor": "",
+        "Período": "7"
+    },
+    {
+        "Disciplina": "Princípios de Comunicação",
+        "Professor": "Joao Batista Jose Pereira",
+        "Período": "8"
+    },
+    {
+        "Disciplina": "Automação Industrial I",
+        "Professor": "Danilo dos Santos Oliveira",
+        "Período": "8"
+    },
+    {
+        "Disciplina": "Análise de Sistemas Elétricos",
+        "Professor": "Alana da Silva Magalhaes",
+        "Período": "8"
+    },
+    {
+        "Disciplina": "Fontes Alternativas de Energia",
+        "Professor": "Gilberto Lopes Filho",
+        "Período": "9"
+    },
+    {
+        "Disciplina": "Automação Industrial II",
+        "Professor": "Carlos Roberto da Silveira Junior",
+        "Período": "9"
+    },
+    {
+        "Disciplina": "Teoria da Informação",
+        "Professor": "Marcos Antonio Cardoso de Lima",
+        "Período": "9"
+    },
+    {
+        "Disciplina": "Sistema de Radioenlace",
+        "Professor": "Joao Batista Jose Pereira",
+        "Período": "9"
+    },
+    {
+        "Disciplina": "Legislação e Ética",
+        "Professor": "Fabio da Silva Marques",
+        "Período": "9"
+    },
+    {
+        "Disciplina": "Processos Estocásticos (Opt)",
+        "Professor": "Marcos Antonio Cardoso de Lima",
+        "Período": "10"
+    },
+    {
+        "Disciplina": "Sistemas Inteligentes",
+        "Professor": "Paulo Sergio Zanin Junior",
+        "Período": "10"
     }
 ]
