@@ -106,7 +106,7 @@
         "Dia da Semana": "Sábado",
         "Horário Início": "7:00",
         "Horário Fim": "8:30",
-        "Sala": "",
+        "Sala": "S-306",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -130,33 +130,13 @@
         "Coordenação": "Área de Matemática"
     },
     {
-        "Período": "PERÍODO",
-        "Disciplina": "DISCIPLINA",
-        "Professor": "PROFESSOR",
-        "Dia da Semana": "DIA",
-        "Horário Início": "",
-        "Horário Fim": "",
-        "Sala": "SALA",
-        "Coordenação": "Coordenação da Disciplina"
-    },
-    {
-        "Período": "PERÍODO",
-        "Disciplina": "DISCIPLINA",
-        "Professor": "PROFESSOR",
-        "Dia da Semana": "DIA",
-        "Horário Início": "",
-        "Horário Fim": "",
-        "Sala": "SALA",
-        "Coordenação": "Coordenação da Disciplina"
-    },
-    {
         "Período": "3",
         "Disciplina": "Circuitos Elétricos I",
         "Professor": "Gilberto Lopes Filho",
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-307",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -166,7 +146,7 @@
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-307",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -206,7 +186,7 @@
         "Dia da Semana": "Quarta-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-307",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -280,33 +260,13 @@
         "Coordenação": "Área de Turismo e Hospitalidade"
     },
     {
-        "Período": "PERÍODO",
-        "Disciplina": "DISCIPLINA",
-        "Professor": "PROFESSOR",
-        "Dia da Semana": "DIA",
-        "Horário Início": "",
-        "Horário Fim": "",
-        "Sala": "SALA",
-        "Coordenação": "Coordenação da Disciplina"
-    },
-    {
-        "Período": "PERÍODO",
-        "Disciplina": "DISCIPLINA",
-        "Professor": "PROFESSOR",
-        "Dia da Semana": "DIA",
-        "Horário Início": "",
-        "Horário Fim": "",
-        "Sala": "SALA",
-        "Coordenação": "Coordenação da Disciplina"
-    },
-    {
         "Período": "5",
         "Disciplina": "Eletrônica Digital II",
         "Professor": "Marcelo Antonio Adad de Araujo",
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-304",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -316,7 +276,7 @@
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-304",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -326,7 +286,7 @@
         "Dia da Semana": "Terça-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-308",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -336,7 +296,7 @@
         "Dia da Semana": "Terça-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-308",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -346,7 +306,7 @@
         "Dia da Semana": "Quarta-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-401C",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -356,7 +316,7 @@
         "Dia da Semana": "Quarta-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-401C",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -366,7 +326,7 @@
         "Dia da Semana": "Quinta-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-306",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -376,7 +336,7 @@
         "Dia da Semana": "Quinta-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-306",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -386,7 +346,7 @@
         "Dia da Semana": "Sexta-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-308",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -396,7 +356,7 @@
         "Dia da Semana": "Sexta-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-308",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -430,33 +390,23 @@
         "Coordenação": "Técnico Subsequente em Eletrotécnica"
     },
     {
-        "Período": "PERÍODO",
-        "Disciplina": "DISCIPLINA",
-        "Professor": "PROFESSOR",
-        "Dia da Semana": "DIA",
-        "Horário Início": "",
-        "Horário Fim": "",
-        "Sala": "SALA",
-        "Coordenação": "Coordenação da Disciplina"
-    },
-    {
         "Período": "6",
         "Disciplina": "Instrumentação Industrial",
-        "Professor": "",
+        "Professor": "Danilo dos Santos Oliveira",
         "Dia da Semana": "Quarta-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-308",
         "Coordenação": "Bacharelado em Engenharia de Controle e Automação"
     },
     {
         "Período": "6",
         "Disciplina": "Instrumentação Industrial",
-        "Professor": "",
+        "Professor": "Danilo dos Santos Oliveira",
         "Dia da Semana": "Quarta-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-308",
         "Coordenação": "Bacharelado em Engenharia de Controle e Automação"
     },
     {
@@ -466,7 +416,7 @@
         "Dia da Semana": "Sábado",
         "Horário Início": "8:45",
         "Horário Fim": "10:15",
-        "Sala": "",
+        "Sala": "S-401C",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -476,18 +426,8 @@
         "Dia da Semana": "Sábado",
         "Horário Início": "10:30",
         "Horário Fim": "12:00",
-        "Sala": "",
+        "Sala": "S-401C",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
-    },
-    {
-        "Período": "PERÍODO",
-        "Disciplina": "DISCIPLINA",
-        "Professor": "PROFESSOR",
-        "Dia da Semana": "DIA",
-        "Horário Início": "",
-        "Horário Fim": "",
-        "Sala": "SALA",
-        "Coordenação": "Coordenação da Disciplina"
     },
     {
         "Período": "7",
@@ -496,7 +436,7 @@
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-308",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -506,7 +446,7 @@
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-308",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -516,7 +456,7 @@
         "Dia da Semana": "Terça-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "T-307",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -526,7 +466,7 @@
         "Dia da Semana": "Terça-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "T-307",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -536,7 +476,7 @@
         "Dia da Semana": "Quarta-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-305",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -546,7 +486,7 @@
         "Dia da Semana": "Quarta-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-305",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -576,7 +516,7 @@
         "Dia da Semana": "Sexta-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-307",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -586,7 +526,7 @@
         "Dia da Semana": "Sexta-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-307",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -596,7 +536,7 @@
         "Dia da Semana": "Sábado",
         "Horário Início": "7:00",
         "Horário Fim": "8:30",
-        "Sala": "",
+        "Sala": "S-305",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -606,7 +546,7 @@
         "Dia da Semana": "Sábado",
         "Horário Início": "8:45",
         "Horário Fim": "10:15",
-        "Sala": "",
+        "Sala": "S-305",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -620,54 +560,44 @@
         "Coordenação": "Área de Turismo e Hospitalidade"
     },
     {
-        "Período": "PERÍODO",
-        "Disciplina": "DISCIPLINA",
-        "Professor": "PROFESSOR",
-        "Dia da Semana": "DIA",
-        "Horário Início": "",
-        "Horário Fim": "",
-        "Sala": "SALA",
-        "Coordenação": "Coordenação da Disciplina"
-    },
-    {
         "Período": "8",
         "Disciplina": "Princípios de Comunicação",
-        "Professor": "Joao Batista Jose Pereira",
+        "Professor": "Samir Youssif Wehbi Arabi",
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-305",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
         "Período": "8",
         "Disciplina": "Princípios de Comunicação",
-        "Professor": "Joao Batista Jose Pereira",
+        "Professor": "Samir Youssif Wehbi Arabi",
         "Dia da Semana": "Segunda-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-305",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
         "Período": "8",
         "Disciplina": "Automação Industrial I",
-        "Professor": "Danilo dos Santos Oliveira",
+        "Professor": "",
         "Dia da Semana": "Terça-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
-        "Coordenação": "Bacharelado em Engenharia Elétrica"
+        "Sala": "T-308",
+        "Coordenação": "Bacharelado em Engenharia de Controle e Automação"
     },
     {
         "Período": "8",
         "Disciplina": "Automação Industrial I",
-        "Professor": "Danilo dos Santos Oliveira",
+        "Professor": "",
         "Dia da Semana": "Terça-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
-        "Coordenação": "Bacharelado em Engenharia Elétrica"
+        "Sala": "T-308",
+        "Coordenação": "Bacharelado em Engenharia de Controle e Automação"
     },
     {
         "Período": "8",
@@ -676,7 +606,7 @@
         "Dia da Semana": "Sábado",
         "Horário Início": "8:45",
         "Horário Fim": "10:15",
-        "Sala": "",
+        "Sala": "S-306",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -686,108 +616,88 @@
         "Dia da Semana": "Sábado",
         "Horário Início": "10:30",
         "Horário Fim": "12:00",
-        "Sala": "",
-        "Coordenação": "Bacharelado em Engenharia Elétrica"
-    },
-    {
-        "Período": "PERÍODO",
-        "Disciplina": "DISCIPLINA",
-        "Professor": "PROFESSOR",
-        "Dia da Semana": "DIA",
-        "Horário Início": "",
-        "Horário Fim": "",
-        "Sala": "SALA",
-        "Coordenação": "Coordenação da Disciplina"
-    },
-    {
-        "Período": "9",
-        "Disciplina": "Fontes Alternativas de Energia",
-        "Professor": "Gilberto Lopes Filho",
-        "Dia da Semana": "Terça-feira",
-        "Horário Início": "19:00",
-        "Horário Fim": "20:30",
-        "Sala": "",
-        "Coordenação": "Bacharelado em Engenharia Elétrica"
-    },
-    {
-        "Período": "9",
-        "Disciplina": "Fontes Alternativas de Energia",
-        "Professor": "Gilberto Lopes Filho",
-        "Dia da Semana": "Terça-feira",
-        "Horário Início": "20:45",
-        "Horário Fim": "22:15",
-        "Sala": "",
-        "Coordenação": "Bacharelado em Engenharia Elétrica"
-    },
-    {
-        "Período": "9",
-        "Disciplina": "Automação Industrial II",
-        "Professor": "Carlos Roberto da Silveira Junior",
-        "Dia da Semana": "Quarta-feira",
-        "Horário Início": "19:00",
-        "Horário Fim": "20:30",
-        "Sala": "",
-        "Coordenação": "Bacharelado em Engenharia Elétrica"
-    },
-    {
-        "Período": "9",
-        "Disciplina": "Automação Industrial II",
-        "Professor": "Carlos Roberto da Silveira Junior",
-        "Dia da Semana": "Quarta-feira",
-        "Horário Início": "20:45",
-        "Horário Fim": "22:15",
-        "Sala": "",
-        "Coordenação": "Bacharelado em Engenharia Elétrica"
-    },
-    {
-        "Período": "9",
-        "Disciplina": "Teoria da Informação",
-        "Professor": "Marcos Antonio Cardoso de Lima",
-        "Dia da Semana": "Quinta-feira",
-        "Horário Início": "19:00",
-        "Horário Fim": "20:30",
-        "Sala": "",
-        "Coordenação": "Bacharelado em Engenharia Elétrica"
-    },
-    {
-        "Período": "9",
-        "Disciplina": "Teoria da Informação",
-        "Professor": "Marcos Antonio Cardoso de Lima",
-        "Dia da Semana": "Quinta-feira",
-        "Horário Início": "20:45",
-        "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-306",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
         "Período": "9",
         "Disciplina": "Sistema de Radioenlace",
-        "Professor": "Joao Batista Jose Pereira",
-        "Dia da Semana": "Sexta-feira",
+        "Professor": "Kelias de Oliveira",
+        "Dia da Semana": "Terça-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-305",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
         "Período": "9",
         "Disciplina": "Legislação e Ética",
         "Professor": "Fabio da Silva Marques",
+        "Dia da Semana": "Terça-feira",
+        "Horário Início": "20:45",
+        "Horário Fim": "22:15",
+        "Sala": "S-310",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "9",
+        "Disciplina": "Automação Industrial II",
+        "Professor": "Carlos Roberto da Silveira Junior",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "19:00",
+        "Horário Fim": "20:30",
+        "Sala": "T-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "9",
+        "Disciplina": "Automação Industrial II",
+        "Professor": "Carlos Roberto da Silveira Junior",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "20:45",
+        "Horário Fim": "22:15",
+        "Sala": "T-308",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "9",
+        "Disciplina": "Teoria da Informação",
+        "Professor": "Marcos Antonio Cardoso de Lima",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "19:00",
+        "Horário Fim": "20:30",
+        "Sala": "S-306",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "9",
+        "Disciplina": "Teoria da Informação",
+        "Professor": "Marcos Antonio Cardoso de Lima",
+        "Dia da Semana": "Quinta-feira",
+        "Horário Início": "20:45",
+        "Horário Fim": "22:15",
+        "Sala": "S-306",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "9",
+        "Disciplina": "Fontes Alternativas de Energia",
+        "Professor": "Gilberto Lopes Filho",
+        "Dia da Semana": "Sexta-feira",
+        "Horário Início": "19:00",
+        "Horário Fim": "20:30",
+        "Sala": "S-307",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "9",
+        "Disciplina": "Fontes Alternativas de Energia",
+        "Professor": "Gilberto Lopes Filho",
         "Dia da Semana": "Sexta-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-307",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
-    },
-    {
-        "Período": "PERÍODO",
-        "Disciplina": "DISCIPLINA",
-        "Professor": "PROFESSOR",
-        "Dia da Semana": "DIA",
-        "Horário Início": "",
-        "Horário Fim": "",
-        "Sala": "SALA",
-        "Coordenação": "Coordenação da Disciplina"
     },
     {
         "Período": "10",
@@ -796,7 +706,7 @@
         "Dia da Semana": "Terça-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-306",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -806,7 +716,27 @@
         "Dia da Semana": "Terça-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-306",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "10",
+        "Disciplina": "Segurança da Informação (Opt)",
+        "Professor": "Fabio da Silva Marques",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "7:00",
+        "Horário Fim": "8:30",
+        "Sala": "S-309",
+        "Coordenação": "Bacharelado em Engenharia Elétrica"
+    },
+    {
+        "Período": "10",
+        "Disciplina": "Segurança da Informação (Opt)",
+        "Professor": "Fabio da Silva Marques",
+        "Dia da Semana": "Quarta-feira",
+        "Horário Início": "8:45",
+        "Horário Fim": "10:15",
+        "Sala": "S-309",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -816,7 +746,7 @@
         "Dia da Semana": "Quinta-feira",
         "Horário Início": "19:00",
         "Horário Fim": "20:30",
-        "Sala": "",
+        "Sala": "S-401C",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     },
     {
@@ -826,7 +756,7 @@
         "Dia da Semana": "Quinta-feira",
         "Horário Início": "20:45",
         "Horário Fim": "22:15",
-        "Sala": "",
+        "Sala": "S-401C",
         "Coordenação": "Bacharelado em Engenharia Elétrica"
     }
 ]
